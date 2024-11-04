@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Alone1101
+- 👀 I’m interested in game development, database and machine learning
+- 🌱 I’m currently learning haskell
+- 💞️ I’m looking to collaborate on interested projects
+- 📫 How to reach me: wongjinxuan3@gmail.com
+- What I've learnt: Python, Java, Haskell, Html, Css, Mysql
